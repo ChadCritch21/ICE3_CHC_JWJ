@@ -1,0 +1,68 @@
+C:\Users\rkelley\source\repos\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.exe
+C:\Users\rkelley\source\repos\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.deps.json
+C:\Users\rkelley\source\repos\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.runtimeconfig.json
+C:\Users\rkelley\source\repos\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.runtimeconfig.dev.json
+C:\Users\rkelley\source\repos\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.dll
+C:\Users\rkelley\source\repos\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.pdb
+C:\Users\rkelley\source\repos\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.csprojAssemblyReference.cache
+C:\Users\rkelley\source\repos\ICE3StarterCode\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\rkelley\source\repos\ICE3StarterCode\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\rkelley\source\repos\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode_MarkupCompile.cache
+C:\Users\rkelley\source\repos\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode_MarkupCompile.lref
+C:\Users\rkelley\source\repos\ICE3StarterCode\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\rkelley\source\repos\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.g.resources
+C:\Users\rkelley\source\repos\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.AssemblyInfoInputs.cache
+C:\Users\rkelley\source\repos\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.AssemblyInfo.cs
+C:\Users\rkelley\source\repos\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.dll
+C:\Users\rkelley\source\repos\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.pdb
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.exe
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.deps.json
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.runtimeconfig.json
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.runtimeconfig.dev.json
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.dll
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.pdb
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.csprojAssemblyReference.cache
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode_MarkupCompile.cache
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode_MarkupCompile.lref
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.g.resources
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.AssemblyInfoInputs.cache
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.AssemblyInfo.cs
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.dll
+C:\Users\ccritchelow\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.pdb
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.exe
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.deps.json
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.runtimeconfig.json
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.runtimeconfig.dev.json
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.dll
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.pdb
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.csprojAssemblyReference.cache
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode_MarkupCompile.cache
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode_MarkupCompile.lref
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.g.resources
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.AssemblyInfoInputs.cache
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.AssemblyInfo.cs
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.dll
+C:\Users\chadc\Desktop\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.pdb
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.exe
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.deps.json
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.runtimeconfig.json
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.runtimeconfig.dev.json
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.dll
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\bin\Debug\netcoreapp3.1\ICE3StarterCode.pdb
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.csprojAssemblyReference.cache
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode_MarkupCompile.cache
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode_MarkupCompile.lref
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.g.resources
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.AssemblyInfoInputs.cache
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.AssemblyInfo.cs
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.dll
+C:\Users\chadc\Desktop\BACK-UP\SCHOOL\BU Spring 2020\CS_311_AppDevel\ICE3StarterCode\ICE3StarterCode\obj\Debug\netcoreapp3.1\ICE3StarterCode.pdb
